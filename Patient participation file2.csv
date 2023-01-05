@@ -1,0 +1,516 @@
+Age,Mobility,Distance,Participation
+39,Car,30,1
+26,Car,40,0
+40,No car,64,0
+20,Car,24.78,0
+66,No car,49,0
+90,Car,50,0
+88,No car,14.5,0
+85,No car,11,0
+45,No car,21,0
+67,Car,22,1
+33,Car,45,0
+46,No car,5.6,1
+23,Car,33,1
+78,Car,8.7,1
+86,No car,9,1
+34,No car,41,0
+45,No car,29,0
+56,No car,33,0
+67,Car,22.7,0
+78,Car,11,0
+87,Car,14.6,1
+76,Car,44,1
+65,Car,23,1
+54,Car,29,1
+43,Car,76,1
+32,Car,55,0
+21,Car,68.7,1
+25,Car,33,1
+36,Car,21,1
+49,No car,44,0
+58,No car,4,1
+69,No car,9,1
+28,No car,14,1
+38,Car,23,1
+33,No car,55,0
+44,Car,33,1
+47,No car,6,1
+50,No car,45,1
+58,Car,3,1
+63,Car,22,0
+61,Car,2,1
+51,No car,5.8,1
+53,No car,5,1
+77,No car,19,1
+75,No car,16,0
+72,No car,44,0
+73,Car,87,0
+88,Car,55,0
+86,No car,39,0
+81,No car,36.9,0
+83,Car,60.1,1
+20,Car,20,0
+20,Car,12,0
+20,No car,5,1
+25,Car,9,1
+25,No car,9,0
+25,Car,3,1
+25,No car,5,1
+25,Car,15,0
+28,Car,7,1
+28,Car,10,0
+28,No car,7,0
+30,Car,6,1
+30,Car,12,1
+30,No car,10,0
+30,No car,5,0
+90,No car,2,1
+90,No car,3,0
+90,No car,2,0
+90,No car,10,0
+90,No car,15,0
+90,No car,12,0
+90,No car,20,0
+60,Car,4,1
+90,Car,2,0
+90,Car,2,1
+90,Car,12,0
+90,Car,5,0
+90,Car,7,0
+90,Car,20,0
+90,No car,11,0
+90,No car,7,0
+90,No car,2,0
+90,No car,5,0
+90,No car,14,0
+90,No car,67,0
+90,No car,23,0
+90,No car,19,0
+60,Car,24,0
+60,Car,7,0
+60,Car,9,0
+30,Car,7,0
+78,Car,7,0
+78,Car,2,1
+46,Car,9,0
+90,Car,5,0
+90,Car,25,0
+90,Car,35,0
+87,Car,2,0
+28,Car,6,1
+28,Car,6,0
+28,Car,7,1
+28,Car,7,0
+28,Car,10,0
+28,Car,15,0
+28,Car,13,0
+28,Car,19,0
+28,Car,20,0
+28,Car,30,0
+28,Car,34,0
+28,Car,25,0
+28,Car,2,1
+28,Car,2,0
+28,Car,1,1
+90,Car,2,0
+52,No car,3,0
+52,No car,3,1
+52,No car,4,1
+52,No car,6,0
+52,No car,6,1
+52,No car,15,0
+52,No car,22,0
+52,No car,11,0
+60,Car,5,1
+60,Car,9,1
+60,Car,9,0
+60,Car,10,0
+60,Car,14,0
+60,Car,18,1
+60,No car,1,1
+60,No car,9,1
+60,No car,2,1
+60,No car,3,1
+60,No car,5,1
+60,No car,4,1
+60,No car,14,0
+60,No car,10,0
+60,No car,7,0
+60,No car,9,0
+45,Car,4,1
+45,Car,6,1
+29,Car,30,1
+36,Car,40,0
+30,No car,15,0
+25,Car,24,0
+66,No car,20,0
+78,Car,40,0
+78,No car,14,0
+73,No car,11,0
+55,No car,21,0
+57,Car,22,1
+44,Car,26,0
+36,No car,5,1
+33,Car,3,1
+68,Car,8,1
+76,No car,9,1
+47,No car,16,0
+35,No car,25,0
+69,No car,3,0
+27,Car,22,0
+63,Car,11,0
+77,Car,14,1
+80,Car,3,1
+75,Car,2,1
+64,Car,20,0
+53,Car,18,1
+42,Car,23,0
+31,Car,11,1
+35,Car,10,1
+26,Car,16,1
+39,No car,25,0
+48,No car,4,1
+59,No car,9,1
+38,No car,14,1
+28,Car,23,1
+23,No car,55,0
+34,Car,33,1
+37,No car,6,1
+60,No car,45,1
+68,Car,3,1
+33,Car,22,0
+51,Car,2,1
+61,No car,5,1
+43,No car,5,1
+67,No car,19,1
+45,No car,16,0
+75,No car,12,0
+33,Car,15,0
+78,Car,22,0
+84,No car,20,0
+81,No car,10,0
+73,Car,9,1
+30,Car,10,0
+30,Car,19,0
+30,No car,2,1
+35,Car,2,1
+35,No car,10,0
+45,Car,3,1
+35,No car,5,1
+45,Car,15,0
+38,Car,7,1
+48,Car,10,0
+58,No car,7,0
+60,Car,6,1
+70,Car,12,1
+80,No car,10,0
+40,No car,5,0
+90,No car,2,1
+90,No car,3,0
+90,No car,2,0
+90,No car,10,0
+90,No car,15,0
+90,No car,12,0
+90,No car,20,0
+60,Car,4,1
+90,Car,2,0
+90,Car,2,1
+90,Car,12,0
+90,Car,5,0
+90,Car,7,0
+90,Car,20,0
+90,No car,11,0
+90,No car,7,0
+90,No car,2,0
+90,No car,5,0
+90,No car,14,0
+90,No car,67,0
+90,No car,23,0
+90,No car,19,0
+60,Car,24,0
+60,Car,7,0
+60,Car,9,0
+30,Car,7,0
+78,Car,7,0
+78,Car,2,1
+46,Car,9,0
+90,Car,5,0
+90,Car,25,0
+90,Car,35,0
+87,Car,2,0
+38,Car,6,1
+48,Car,6,0
+58,Car,7,1
+68,Car,7,0
+78,Car,10,0
+24,Car,15,0
+34,Car,13,0
+33,Car,19,0
+59,Car,20,0
+60,Car,30,0
+70,Car,34,0
+56,Car,25,0
+55,Car,2,1
+33,Car,2,0
+28,Car,1,1
+90,Car,2,0
+52,No car,3,0
+52,No car,3,1
+52,No car,4,1
+52,No car,6,0
+52,No car,6,1
+52,No car,15,0
+52,No car,22,0
+52,No car,11,0
+60,Car,5,1
+60,Car,9,1
+60,Car,7,0
+60,Car,12,0
+60,Car,14,0
+60,Car,12,1
+60,No car,1,1
+60,No car,7,1
+60,No car,4,1
+60,No car,5,1
+60,No car,6,1
+60,No car,3,1
+60,No car,13,0
+60,No car,11,0
+60,No car,9,0
+60,No car,8,0
+35,Car,4,1
+55,Car,3,1
+50,Car,29,1
+50,No car,30,0
+63,Car,5,1
+27,No car,10,1
+51,Car,45,0
+50,No car,45,0
+47,Car,65,0
+29,Car,11,1
+35,No car,13,0
+39,No car,16,0
+24,No car,13,1
+36,Car,28,0
+49,No car,14,0
+62,Car,27,1
+57,Car,12,1
+69,Car,21,0
+34,Car,1,1
+45,Car,5,1
+28,No car,12,1
+36,Car,1,1
+41,No car,24,0
+59,No car,26,0
+28,No car,15,1
+35,No car,5,1
+26,Car,16,1
+54,Car,12,1
+43,No car,4,1
+49,Car,25,0
+58,No car,34,0
+56,Car,25,0
+35,No car,13,1
+68,Car,16,1
+42,No car,5,1
+78,Car,12,1
+71,Car,16,0
+56,No car,5,1
+46,No car,24,0
+35,Car,6,1
+28,No car,12,1
+78,Car,9,1
+24,Car,13,1
+55,No car,14,0
+69,Car,16,0
+28,No car,24,0
+37,Car,23,0
+68,Car,14,0
+45,No car,25,0
+34,Car,26,0
+28,No car,5,1
+64,Car,8,1
+58,No car,21,0
+34,Car,16,1
+61,No car,18,0
+58,No car,29,0
+76,Car,21,0
+35,No car,12,1
+46,Car,9,1
+24,No car,16,1
+38,Car,24,0
+56,Car,24,0
+42,Car,5,1
+28,No car,16,1
+67,Car,19,0
+20,No car,23,0
+64,Car,26,0
+58,No car,24,0
+22,Car,16,1
+69,No car,17,0
+33,Car,9,1
+44,No car,12,1
+62,No car,28,0
+77,Car,16,1
+54,No car,12,1
+68,No car,26,0
+23,Car,34,1
+57,No car,11,1
+54,No car,22,0
+64,Car,24,0
+28,No car,15,1
+27,Car,16,1
+61,No car,18,0
+34,Car,24,1
+56,No car,11,0
+30,Car,24,1
+69,Car,33,0
+80,Car,21,0
+29,No car,32,1
+64,Car,12,0
+29,No car,13,1
+21,No car,21,1
+69,Car,29,0
+69,Car,25,0
+80,No car,32,0
+27,Car,11,1
+35,No car,16,1
+26,Car,24,1
+54,Car,29,0
+57,No car,16,0
+43,Car,8,1
+28,No car,19,1
+21,Car,7,1
+45,Car,20,0
+39,No car,3,1
+28,Car,5,1
+50,Car,30,0
+47,No car,2,1
+30,No car,6,1
+26,Car,35,1
+48,No car,5,0
+41,Car,25,0
+25,No car,38,0
+50,Car,2,1
+46,No car,20,0
+24,Car,5,1
+21,No car,39,0
+55,Car,2,1
+37,Car,25,0
+21,No car,10,1
+28,Car,40,0
+29,Car,13,1
+20,No car,5,1
+22,Car,19,1
+43,Car,35,0
+19,No car,45,0
+20,Car,42,1
+27,Car,12,0
+35,No car,31,1
+27,Car,42,1
+49,Car,32,0
+40,Car,41,0
+30,No car,39,0
+28,Car,33,1
+25,Car,41,0
+22,No car,31,1
+33,No car,44,1
+23,Car,20,1
+47,Car,28,0
+50,No car,29,0
+26,Car,20,1
+30,No car,23,0
+18,No car,10,1
+26,Car,29,0
+40,No car,19,0
+33,No car,2,1
+27,Car,12,1
+25,Car,25,0
+37,No car,2,1
+29,Car,26,0
+21,No car,18,0
+42,Car,15,1
+32,No car,3,1
+29,Car,10,1
+21,No car,6,1
+54,No car,34,0
+36,Car,7,1
+59,No car,32,0
+27,No car,1,1
+57,Car,45,0
+34,No car,50,0
+22,Car,20,1
+51,Car,4,1
+20,No car,16,1
+27,Car,43,0
+32,Car,11,1
+43,No car,38,0
+24,Car,24,1
+56,No car,22,0
+29,No car,2,1
+54,Car,49,0
+43,No car,49,0
+21,Car,3,1
+33,Car,8,1
+23,Car,12,1
+32,No car,2,1
+22,Car,34,1
+35,No car,21,0
+26,Car,12,1
+37,No car,54,0
+29,Car,37,1
+55,Car,39,0
+24,No car,11,1
+44,Car,47,0
+35,No car,7,1
+26,Car,6,1
+56,No car,44,0
+31,No car,4,1
+24,Car,9,1
+32,Car,56,0
+44,Car,33,0
+21,No car,2,1
+19,Car,11,1
+57,Car,32,0
+22,No car,25,1
+43,Car,12,1
+35,No car,5,1
+38,Car,43,0
+30,Car,15,1
+29,Car,17,1
+38,No car,23,0
+59,No car,47,0
+23,Car,16,1
+20,Car,3,1
+21,Car,8,1
+22,Car,7,1
+23,Car,8,1
+25,No car,9,0
+32,No car,7,1
+67,Car,8,0
+80,Car,6,0
+89,No car,7,0
+55,Car,7,0
+67,Car,3,1
+30,Car,9,1
+88,Car,1,1
+54,Car,9,1
+79,No car,6,0
+48,Car,9,1
+35,No car,9,1
+78,Car,12,1
+68,Car,23,1
+29,No car,5,1
+78,No car,5,1
+80,No car,24,0
+46,Car,6,1
+58,Car,2,1
+36,Car,29,0
+31,No car,9,1
+90,No car,1,1
+90,No car,9,1
+90,No car,4,1
+76,Car,3,1
+76,Car,9,1
+27,Car,20,0

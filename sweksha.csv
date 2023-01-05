@@ -1,0 +1,101 @@
+age,mobility,distance,participation
+45,Car,20,0
+39,No car,3,1
+28,Car,5,1
+50,Car,30,0
+47,No car,2,1
+30,No car,6,1
+26,Car,35,1
+48,No car,5,0
+41,Car,25,0
+25,No car,38,0
+50,Car,2,1
+46,No car,20,0
+24,Car,5,1
+21,No car,39,0
+55,Car,2,1
+37,Car,25,0
+21,No car,10,1
+28,Car,40,0
+29,Car,13,1
+20,No car,5,1
+22,Car,19,1
+43,Car,35,0
+19,No car,45,0
+20,Car,42,1
+27,Car,12,0
+35,No car,31,1
+27,Car,42,1
+49,Car,32,0
+40,Car,41,0
+30,No car,39,0
+28,Car,33,1
+25,Car,41,0
+22,No car,31,1
+33,No car,44,1
+23,Car,20,1
+47,Car,28,0
+50,No car,29,0
+26,Car,20,1
+30,No car,23,0
+18,No car,10,1
+26,Car,29,0
+40,No car,19,0
+33,No car,2,1
+27,Car,12,1
+25,Car,25,0
+37,No car,2,1
+29,Car,26,0
+21,No car,18,0
+42,Car,15,1
+32,No car,3,1
+29,Car,10,1
+21,No car,6,1
+54,No car,34,0
+36,Car,7,1
+59,No car,32,0
+27,No car,1,1
+57,Car,45,0
+34,No car,50,0
+22,Car,20,1
+51,Car,4,1
+20,No car,16,1
+27,Car,43,0
+32,Car,11,1
+43,No car,38,0
+24,Car,24,1
+56,No car,22,0
+29,No car,2,1
+54,Car,49,0
+43,No car,49,0
+21,Car,3,1
+33,Car,8,1
+23,Car,12,1
+32,No car,2,1
+22,Car,34,1
+35,No car,21,0
+26,Car,12,1
+37,No car,54,0
+29,Car,37,1
+55,Car,39,0
+24,No car,11,1
+44,Car,47,0
+35,No car,7,1
+26,Car,6,1
+56,No car,44,0
+31,No car,4,1
+24,Car,9,1
+32,Car,56,0
+44,Car,33,0
+21,No car,2,1
+19,Car,11,1
+57,Car,32,0
+22,No car,25,1
+43,Car,12,1
+35,No car,5,1
+38,Car,43,0
+30,Car,15,1
+29,Car,17,1
+38,No car,23,0
+59,No car,47,0
+23,Car,16,1
